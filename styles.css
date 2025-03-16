@@ -29,10 +29,6 @@
     max-width: 800px;
   }
 
-  .home-content h3{
-    font-size: 42px;
-  }
-
   ::-webkit-scrollbar{
     width: 15px;
   }
