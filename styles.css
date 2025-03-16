@@ -38,11 +38,6 @@
     line-height: 1.2;
   }
 
-  .home-content p{
-    font-size: 18px;
-    margin: 25px 0 30px;
-  }
-
   ::-webkit-scrollbar{
     width: 15px;
   }
