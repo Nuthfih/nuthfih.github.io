@@ -43,11 +43,6 @@
     margin: 25px 0 30px;
   }
 
-  .img-box img{
-    border-radius: 50%;
-    width: 550px;
-  }
-
   ::-webkit-scrollbar{
     width: 15px;
   }
